@@ -8,7 +8,7 @@ import com.thinkgem.jeesite.common.persistence.annotation.MyBatisDao;
 import com.thinkgem.jeesite.test.entity.TestData;
 
 /**
- * 单表生成DAO接口
+ * 单表生成DAO 接口
  * @author ThinkGem
  * @version 2015-04-06
  */
